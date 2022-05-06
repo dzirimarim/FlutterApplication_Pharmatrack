@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "nom pharmacie 1  ",
+        "heureR": "8:30 AM",
+        "heureP": "9:30 AM",
+        "Ncolis":1, 
+        "dateDR":"12/12/2022",
+        "dateDP":"12/12/2022",
+        "dateLR":"13/12/2022",
+        "dateLP":"13/12/2022"
+
+
+    },
+    {
+        "id": 2,
+        "name": "nom pharmacie 2 ",
+        "heureR": "9:30 AM",
+        "heureP": "10:30 AM",
+        "Ncolis":2,
+        "dateDR":"12/12/2022",
+        "dateDP":"12/12/2022",
+        "dateLR":"13/12/2022",
+        "dateLP":"13/12/2022"
+
+    },
+    {
+        "id": 3,
+        "name": "nom pharmacie 3",
+        "heureR": "11:30 AM",
+        "heureP": "12:30 AM",
+        "Ncolis":3,
+        "dateDR":"12/12/2022",
+        "dateDP":"12/12/2022",
+        "dateLR":"13/12/2022",
+        "dateLP":"13/12/2022"
+
+    },
+    {
+        "id": 4,
+        "name": "nom pharmacie 4  ",
+        "heureR": "8:30 AM",
+        "heureP": "10:30 AM",
+        "Ncolis":4,
+        "dateDR":"12/12/2022",
+        "dateDP":"12/12/2022",
+        "dateLR":"13/12/2022",
+        "dateLP":"13/12/2022"
+
+    },
+    {
+        "id": 5,
+        "name": "nom pharmacie 5 ",
+        "heureR": "15:30 AM",
+        "heureP": "18:30 AM",
+        "Ncolis":5,
+        "dateDR":"12/12/2022",
+        "dateDP":"12/12/2022",
+        "dateLR":"13/12/2022",
+        "dateLP":"13/12/2022"
+
+    }
+    
+
+]

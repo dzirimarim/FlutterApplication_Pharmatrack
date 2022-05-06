@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "469347581868",
+    "project_id": "it-peac-pfe-project-6f38a",
+    "storage_bucket": "it-peac-pfe-project-6f38a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469347581868:android:aad169317fdda79a79c409",
+        "android_client_info": {
+          "package_name": "com.flutterflow.pharmatrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469347581868-bkcagt8intlngcbp6ar1og6f0o8245lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKk0P2zhvcIxAEz-gf3PqEbS4jb0J3QaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469347581868-bkcagt8intlngcbp6ar1og6f0o8245lc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469347581868-ri308gl31su6j2goo4crtnp4d8e9bcsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.pharmatrack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

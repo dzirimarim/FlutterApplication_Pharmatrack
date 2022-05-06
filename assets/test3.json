@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "nom pharmacie 1  ",
+        "Ncolis":1,
+        "Qrcode":["aaaa"]
+
+    },
+    {
+        "id": 2,
+        "name": "nom pharmacie 2 ",
+        "Ncolis":2,
+        "Qrcode":["mariemdziriitpeacimhere", "nomPharmacie2"]
+
+    },
+    {
+        "id": 3,
+        "name": "nom pharmacie 3",
+        "Ncolis":3,
+        "Qrcode":["aaaabb", "nomPharmacie3" , "pharmatrack3"]
+
+    },
+    {
+        "id": 4,
+        "name": "nom pharmacie 4  ",
+        "Ncolis":3,
+        "Qrcode":["aaaabbb", "nomPharmacie4" , "pharmatrack4"]
+
+    },
+    {
+        "id": 5,
+        "name": "nom pharmacie 5 ",
+        "Ncolis":3,
+        "Qrcode":["aaaabbbb", "nomPharmacie5" , "pharmatrack5"]
+
+    }
+    
+
+]
